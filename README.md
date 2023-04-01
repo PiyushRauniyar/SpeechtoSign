@@ -10,6 +10,7 @@ Python
 # ML Code
 The code takes an audio file as input and gives out the predcited text output. 
 The below shown image is the results obtained after training and testing the model.
+
 <img width="633" alt="image" src="https://user-images.githubusercontent.com/84968542/229286356-77b8a88f-70ea-4e20-9143-cd2ccdd4a2b1.png">
 
 # Text to Sign
